@@ -1,5 +1,5 @@
-from most_dangerous import province, number
-from font import font_title, font_labels, font_ticks
+from module.most_dangerous import province, number
+from module.font import font_title, font_labels, font_ticks
 import matplotlib.pyplot as plt
 from matplotlib.pyplot import figure
 
@@ -22,5 +22,4 @@ plt.tick_params(axis='x', pad=10)
 plt.title('Number of municipalities present in\n every province with Level 1 of seismicity', pad=20,
           fontdict=font_title)
 
-plt.savefig('histogram_1')
 plt.show()
