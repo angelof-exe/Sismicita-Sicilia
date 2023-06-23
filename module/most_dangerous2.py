@@ -10,6 +10,6 @@ dataset = dataset['new_classification']
 province = dataset.index.to_list()  # Take the province and insert in a list
 number = dataset.to_list()  # Take the numbers of the municipalities of every province and insert in a list
 
-# print(province)
-# print(number)
-# print(dataset)
+print(province)
+print(number)
+print(dataset)
