@@ -3,7 +3,7 @@ This project use the dataset taken from the Open Data of Sicily (https://dati.re
 
 ## Requirements
 Install the python packages present in the `requirements.txt` file
-```pip3 install -r requirements.txt```
+    pip3 install -r requirements.txt
 
 ## Histograms
 - #### histogram_1.py - Municipalities with Level 1 of seismicity
