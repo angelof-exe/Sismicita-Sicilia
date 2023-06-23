@@ -16,4 +16,4 @@ This python file create the histogram of the municipalities with Level 1 of seis
 
 - #### histogram_3.py - Municipalities with Level 1 & 2 of seismicity
 ![](https://raw.githubusercontent.com/Gangelo99/Sismicita-Sicilia/main/histograms/histogram_3.png)
-This python file create the histogram of the municipalities with Level 1 of seismicity using the data calculated by the `most_dangerous1e2.py` file, present in the module path. 
+This python file create the histogram of the municipalities with Level 1 & 2 of seismicity using the data calculated by the `most_dangerous1e2.py` file, present in the module path. 
