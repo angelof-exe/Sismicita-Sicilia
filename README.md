@@ -25,6 +25,6 @@ This python file create the histogram of the municipalities with Level 1 & 2 of 
 ![]([https://raw.githubusercontent.com/Gangelo99/Sismicita-Sicilia/main/histograms/histogram_1.png](https://raw.githubusercontent.com/Gangelo99/Sismicita-Sicilia/main/choropleth/choropleth_sicily.png))
 This python file create the choropleth maps of the Sicily with the 4 level of seismicity. This script use the geoJSON file taken from https://github.com/openpolis/geojson-italy/blob/master/geojson/limits_R_19_municipalities.geojson and use the `dataset_choropleth.csv` present in the data path
 
-- ### choropleth_sicily.py - Choropleth maps with the level of sismicity
+- ### choropleth_sicily.py - Choropleth maps using the ag value
 ![](https://raw.githubusercontent.com/Gangelo99/Sismicita-Sicilia/main/choropleth/choropleth_sicily_2.png)
 This python file create the choropleth maps of the Sicily with the ag value (accelerazione massima su suolo rigido, i.e. maximum acceleration on hard ground) of seismicity. This script use the geoJSON file taken from https://github.com/openpolis/geojson-italy/blob/master/geojson/limits_R_19_municipalities.geojson and use the `dataset_choropleth_2.csv` present in the data path
