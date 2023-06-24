@@ -1,7 +1,7 @@
 # This py file import the dataset, use some columns and renamed them
 import pandas as pd
 
-import_dataset = pd.read_csv("classificazione_sismica.csv")
+import_dataset = pd.read_csv("data/classificazione_sismica.csv")
 
 select_columns = ['ag', 'Sigla Provincia', 'Nuova Classificazione sismica']
 select_columns2 = ['ag', 'Sigla Provincia','Comune', 'Nuova Classificazione sismica']
