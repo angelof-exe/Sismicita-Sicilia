@@ -5,7 +5,7 @@ import plotly.express as px
 with open('data/limits_R_19_municipalities.geojson', encoding='utf-8') as response:
     polygons = json.load(response)
 
-url = 'https://raw.githubusercontent.com/Gangelo99/Sismicita-Sicilia/main/dataset_choropleth.csv'
+url = 'https://raw.githubusercontent.com/Gangelo99/Sismicita-Sicilia/main/data/dataset_choropleth.csv'
 df = pd.read_csv(url, index_col=0, dtype={"comune": str})
 df['classificazione'] = df['classificazione'].astype(str)
 
