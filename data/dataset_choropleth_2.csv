@@ -1,0 +1,392 @@
+,comune,ag
+0,Alcara li Fusi,0.1849
+1,Alì,0.244
+2,Alì Terme,0.2512
+3,Antillo,0.2124
+4,Barcellona Pozzo di Gotto,0.1901
+5,Basicò,0.2017
+6,Brolo,0.177
+7,Capizzi,0.1783
+8,Capo d'Orlando,0.1653
+9,Capri Leone,0.173
+10,Caronia,0.1843
+11,Casalvecchio Siculo,0.2322
+12,Castel di Lucio,0.1823
+13,Castell'Umberto,0.1859
+14,Castelmola,0.2202
+15,Castroreale,0.2032
+16,Cesarò,0.1835
+17,Condrò,0.1705
+18,Falcone,0.1998
+19,Ficarra,0.1861
+20,Fiumedinisi,0.2357
+21,Floresta,0.1955
+22,Fondachelli-Fantina,0.2064
+23,Forza d'Agrò,0.2359
+24,Francavilla di Sicilia,0.2061
+25,Frazzanò,0.1789
+26,Furci Siculo,0.2362
+27,Furnari,0.199
+28,Gaggi,0.2091
+29,Galati Mamertino,0.1872
+30,Gallodoro,0.2291
+31,Giardini-Naxos,0.2067
+32,Gioiosa Marea,0.195
+33,Graniti,0.2101
+34,Gualtieri Sicaminò,0.1825
+35,Itala,0.2448
+36,Leni,0.1741
+37,Letojanni,0.2269
+38,Librizzi,0.1995
+39,Limina,0.2192
+40,Lipari,0.1903
+41,Longi,0.185
+42,Malfa,0.1649
+43,Malvagna,0.1984
+44,Mandanici,0.2222
+45,Mazzarrà Sant'Andrea,0.2012
+46,Merì,0.1695
+47,Messina,0.2559
+48,Milazzo,0.1685
+49,Militello Rosmarino,0.1846
+50,Mirto,0.1755
+51,Mistretta,0.1835
+52,Moio Alcantara,0.1972
+53,Monforte San Giorgio,0.2299
+54,Mongiuffi Melia,0.221
+55,Montagnareale,0.1981
+56,Montalbano Elicona,0.2014
+57,Motta Camastra,0.2073
+58,Motta d'Affermo,0.1796
+59,Naso,0.1781
+60,Nizza di Sicilia,0.247
+61,Novara di Sicilia,0.2046
+62,Oliveri,0.1997
+63,Pace del Mela,0.1616
+64,Pagliara,0.2435
+65,Patti,0.2
+66,Pettineo,0.1832
+67,Piraino,0.1877
+68,Raccuja,0.1969
+69,Reitano,0.1822
+70,Roccafiorita,0.2206
+71,Roccalumera,0.2398
+72,Roccavaldina,0.1792
+73,Roccella Valdemone,0.2002
+74,Rodì Milici,0.2008
+75,Rometta,0.2232
+76,San Filippo del Mela,0.1617
+77,San Fratello,0.1845
+78,San Marco d'Alunzio,0.1808
+79,San Pier Niceto,0.2094
+80,San Piero Patti,0.2004
+81,San Salvatore di Fitalia,0.1849
+82,Santa Domenica Vittoria,0.1978
+83,Sant'Agata di Militello,0.1835
+84,Sant'Alessio Siculo,0.2359
+85,Santa Lucia del Mela,0.2044
+86,Santa Marina Salina,0.1752
+87,Sant'Angelo di Brolo,0.1938
+88,Santa Teresa di Riva,0.241
+89,San Teodoro,0.1679
+90,Santo Stefano di Camastra,0.1825
+91,Saponara,0.2231
+92,Savoca,0.2349
+93,Scaletta Zanclea,0.2522
+94,Sinagra,0.1908
+95,Spadafora,0.1729
+96,Taormina,0.2102
+97,Torregrotta,0.1702
+98,Tortorici,0.1904
+99,Tripi,0.2027
+100,Tusa,0.183
+101,Ucria,0.1942
+102,Valdina,0.1644
+103,Venetico,0.1585
+104,Villafranca Tirrena,0.2062
+105,Terme Vigliatore,0.1961
+106,Acquedolci,0.1765
+107,Torrenova,0.1709
+108,Acquaviva Platani,0.0707
+109,Bompensiere,0.0661
+110,Butera,0.1016
+111,Caltanissetta,0.0796
+112,Campofranco,0.0679
+113,Delia,0.0629
+114,Gela,0.1562
+115,Marianopoli,0.078
+116,Mazzarino,0.1249
+117,Milena,0.0647
+118,Montedoro,0.0656
+119,Mussomeli,0.0766
+120,Niscemi,0.1689
+121,Resuttano,0.1028
+122,Riesi,0.0723
+123,San Cataldo,0.0723
+124,Santa Caterina Villarmosa,0.0877
+125,Serradifalco,0.0676
+126,Sommatino,0.0668
+127,Sutera,0.0694
+128,Vallelunga Pratameno,0.0922
+129,Villalba,0.0847
+130,Aci Bonaccorsi,0.2293
+131,Aci Castello,0.212
+132,Aci Catena,0.2255
+133,Acireale,0.226
+134,Aci Sant'Antonio,0.2289
+135,Adrano,0.2161
+136,Belpasso,0.2263
+137,Biancavilla,0.2177
+138,Bronte,0.2104
+139,Calatabiano,0.2194
+140,Caltagirone,0.2408
+141,Camporotondo Etneo,0.1967
+142,Castel di Iudica,0.1516
+143,Castiglione di Sicilia,0.219
+144,Catania,0.2497
+145,Fiumefreddo di Sicilia,0.222
+146,Giarre,0.2229
+147,Grammichele,0.2293
+148,Gravina di Catania,0.2179
+149,Licodia Eubea,0.2672
+150,Linguaglossa,0.2254
+151,Maletto,0.2138
+152,Mascali,0.2263
+153,Mascalucia,0.2274
+154,Militello in Val di Catania,0.2614
+155,Milo,0.2241
+156,Mineo,0.2467
+157,Mirabella Imbaccari,0.1412
+158,Misterbianco,0.2166
+159,Motta Sant'Anastasia,0.2177
+160,Nicolosi,0.2276
+161,Palagonia,0.2302
+162,Paternò,0.1989
+163,Pedara,0.2289
+164,Piedimonte Etneo,0.226
+165,Raddusa,0.1144
+166,Ramacca,0.2213
+167,Randazzo,0.2165
+168,Riposto,0.2121
+169,San Cono,0.112
+170,San Giovanni la Punta,0.2258
+171,San Gregorio di Catania,0.2159
+172,San Michele di Ganzaria,0.1389
+173,San Pietro Clarenza,0.218
+174,Sant'Agata li Battiati,0.2176
+175,Sant'Alfio,0.2253
+176,Santa Maria di Licodia,0.2113
+177,Santa Venerina,0.2236
+178,Scordia,0.2605
+179,Trecastagni,0.2294
+180,Tremestieri Etneo,0.225
+181,Valverde,0.2247
+182,Viagrande,0.2296
+183,Vizzini,0.2761
+184,Zafferana Etnea,0.227
+185,Mazzarrone,0.2305
+186,Maniace,0.1732
+187,Ragalna,0.2225
+188,Acate,0.1992
+189,Chiaramonte Gulfi,0.2586
+190,Comiso,0.2145
+191,Giarratana,0.2726
+192,Ispica,0.1669
+193,Modica,0.2641
+194,Monterosso Almo,0.2699
+195,Pozzallo,0.1262
+196,Ragusa,0.259
+197,Santa Croce Camerina,0.1306
+198,Scicli,0.1519
+199,Vittoria,0.2041
+200,Augusta,0.2671
+201,Avola,0.2367
+202,Buccheri,0.2798
+203,Buscemi,0.2785
+204,Canicattini Bagni,0.265
+205,Carlentini,0.2804
+206,Cassaro,0.279
+207,Ferla,0.2803
+208,Floridia,0.2678
+209,Francofonte,0.2791
+210,Lentini,0.2722
+211,Melilli,0.2787
+212,Noto,0.2702
+213,Pachino,0.1208
+214,Palazzolo Acreide,0.2766
+215,Rosolini,0.2447
+216,Siracusa,0.2614
+217,Solarino,0.2699
+218,Sortino,0.2803
+219,Portopalo di Capo Passero,0.099
+220,Priolo Gargallo,0.2631
+221,Alcamo,0.1575
+222,Buseto Palizzolo,0.0785
+223,Calatafimi-Segesta,0.1364
+224,Campobello di Mazara,0.0974
+225,Castellammare del Golfo,0.1054
+226,Castelvetrano,0.1464
+227,Custonaci,0.0725
+228,Erice,0.0642
+229,Favignana,0.0417
+230,Gibellina,0.1581
+231,Marsala,0.0711
+232,Mazara del Vallo,0.0833
+233,Paceco,0.061
+234,Pantelleria,0.0187
+235,Partanna,0.1558
+236,Poggioreale,0.1701
+237,Salaparuta,0.1669
+238,Salemi,0.1081
+239,Santa Ninfa,0.1403
+240,San Vito Lo Capo,0.0712
+241,Trapani,0.0813
+242,Valderice,0.0601
+243,Vita,0.0971
+244,Petrosino,0.0594
+245,Alia,0.1045
+246,Alimena,0.117
+247,Aliminusa,0.1452
+248,Altavilla Milicia,0.1801
+249,Altofonte,0.1854
+250,Bagheria,0.1808
+251,Balestrate,0.1364
+252,Baucina,0.1641
+253,Belmonte Mezzagno,0.1823
+254,Bisacquino,0.1666
+255,Bolognetta,0.1739
+256,Bompietro,0.1219
+257,Borgetto,0.1844
+258,Caccamo,0.1703
+259,Caltavuturo,0.1489
+260,Campofelice di Fitalia,0.1106
+261,Campofelice di Roccella,0.1816
+262,Campofiorito,0.1391
+263,Camporeale,0.1703
+264,Capaci,0.1677
+265,Carini,0.1769
+266,Castelbuono,0.183
+267,Casteldaccia,0.18
+268,Castellana Sicula,0.1448
+269,Castronovo di Sicilia,0.0925
+270,Cefalà Diana,0.1429
+271,Cefalù,0.1825
+272,Cerda,0.1751
+273,Chiusa Sclafani,0.1126
+274,Ciminna,0.1459
+275,Cinisi,0.1617
+276,Collesano,0.182
+277,Contessa Entellina,0.1695
+278,Corleone,0.1601
+279,Ficarazzi,0.1774
+280,Gangi,0.1577
+281,Geraci Siculo,0.1817
+282,Giardinello,0.1836
+283,Giuliana,0.1395
+284,Godrano,0.1395
+285,Gratteri,0.1823
+286,Isnello,0.1823
+287,Isola delle Femmine,0.1499
+288,Lascari,0.1816
+289,Lercara Friddi,0.0948
+290,Marineo,0.1714
+291,Mezzojuso,0.1345
+292,Misilmeri,0.1811
+293,Monreale,0.1874
+294,Montelepre,0.1808
+295,Montemaggiore Belsito,0.1317
+296,Palazzo Adriano,0.1024
+297,Palermo,0.1832
+298,Partinico,0.1753
+299,Petralia Soprana,0.1691
+300,Petralia Sottana,0.1771
+301,Piana degli Albanesi,0.1851
+302,Polizzi Generosa,0.1675
+303,Pollina,0.182
+304,Prizzi,0.1068
+305,Roccamena,0.1696
+306,Roccapalumba,0.1145
+307,San Cipirello,0.1774
+308,San Giuseppe Jato,0.1846
+309,San Mauro Castelverde,0.1832
+310,Santa Cristina Gela,0.1804
+311,Santa Flavia,0.1802
+312,Sciara,0.1723
+313,Sclafani Bagni,0.146
+314,Termini Imerese,0.1801
+315,Terrasini,0.1584
+316,Torretta,0.178
+317,Trabia,0.1794
+318,Trappeto,0.1549
+319,Ustica,0.0433
+320,Valledolmo,0.1069
+321,Ventimiglia di Sicilia,0.175
+322,Vicari,0.1117
+323,Villabate,0.1804
+324,Villafrati,0.1601
+325,Scillato,0.1654
+326,Blufi,0.1196
+327,Agrigento,0.0626
+328,Alessandria della Rocca,0.0747
+329,Aragona,0.0642
+330,Bivona,0.0838
+331,Burgio,0.1006
+332,Calamonaci,0.0794
+333,Caltabellotta,0.1459
+334,Camastra,0.0571
+335,Cammarata,0.0822
+336,Campobello di Licata,0.0618
+337,Canicattì,0.0635
+338,Casteltermini,0.0707
+339,Castrofilippo,0.0596
+340,Cattolica Eraclea,0.0665
+341,Cianciana,0.0708
+342,Comitini,0.062
+343,Favara,0.0598
+344,Grotte,0.0631
+345,Joppolo Giancaxio,0.061
+346,Lampedusa e Linosa,0.025
+347,Licata,0.0644
+348,Lucca Sicula,0.0887
+349,Menfi,0.1659
+350,Montallegro,0.0646
+351,Montevago,0.1629
+352,Naro,0.0639
+353,Palma di Montechiaro,0.0559
+354,Porto Empedocle,0.0571
+355,Racalmuto,0.0631
+356,Raffadali,0.0611
+357,Ravanusa,0.0661
+358,Realmonte,0.0572
+359,Ribera,0.0833
+360,Sambuca di Sicilia,0.1667
+361,San Biagio Platani,0.0697
+362,San Giovanni Gemini,0.0758
+363,Santa Elisabetta,0.0633
+364,Santa Margherita di Belice,0.1686
+365,Sant'Angelo Muxaro,0.0656
+366,Santo Stefano Quisquina,0.0784
+367,Sciacca,0.1602
+368,Siculiana,0.061
+369,Villafranca Sicula,0.0899
+370,Agira,0.1157
+371,Aidone,0.1455
+372,Assoro,0.1022
+373,Barrafranca,0.0789
+374,Calascibetta,0.1057
+375,Catenanuova,0.119
+376,Centuripe,0.1528
+377,Cerami,0.1716
+378,Enna,0.0993
+379,Gagliano Castelferrato,0.1244
+380,Leonforte,0.1062
+381,Nicosia,0.1701
+382,Nissoria,0.1256
+383,Piazza Armerina,0.1429
+384,Pietraperzia,0.0766
+385,Regalbuto,0.1253
+386,Sperlinga,0.1481
+387,Troina,0.1568
+388,Valguarnera Caropepe,0.089
+389,Villarosa,0.091
+390,Misiliscemi,0.0578
